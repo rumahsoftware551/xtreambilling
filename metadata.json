@@ -1,0 +1,6 @@
+{
+  "name": "XtreamBilling V1",
+  "description": "Sistem billing ISP & manajemen jaringan RT/RW Net: manajemen pelanggan, invoice otomatis & isolir darurat, serta pemantauan kuota dan traffic real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
